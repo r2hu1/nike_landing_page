@@ -1,21 +1,20 @@
-# Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website
-![Nike Landing Page](https://i.ibb.co/pxzMGb4/Thumbnail-2.png)
+## Overview
+This repository contains the code for a Nike landing page built with Next.js and styled with Tailwind CSS. It showcases the power of these technologies in creating high-quality, responsive, and visually appealing web interfaces.
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+## Features
+- Modern and sleek design inspired by Nike's branding.
+- Responsive layout that looks great on all screen sizes.
+- Built with Next.js, a popular React framework for building web applications.
+- Styled with Tailwind CSS, a utility-first CSS framework.
 
-## Tailwind CSS Starter Kit
-📚 https://resource.jsmastery.pro/tailwind-starter-kit
+## Installation
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Install the necessary dependencies with `npm install`.
+4. Start the development server with `npm run dev`.
 
-## Summary
-Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.
+## Usage
+Open your browser and navigate to `http://localhost:3000` to view the application.
 
-In this course, you'll:
-- Learn how to make the most out of Tailwind CSS
-- Fully understand how Tailwind works behind-the-scenes
-- Follow all of Tailwind's best practices
-- Put all of your newly gained Tailwind skills to the test by building a beautiful Nike landing page
-  
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
